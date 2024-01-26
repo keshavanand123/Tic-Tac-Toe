@@ -128,7 +128,7 @@ void Tic_Toc_Toe_board()   //Function to draw the board of Tic-Tac-Toe.
 {
     system("cls");
     cout << "\n*****************************Tic--Tac--Toe******************************\n\n";
-    cout<<"\t\t******Created by (Kid)......."<<"\n\n";
+    cout<<"\t\t******Created by Keshav Anand......."<<"\n\n";
 
     cout << "Player 1-(X)  ||  Player 2-(O)" << endl << endl;            
     cout << endl;
